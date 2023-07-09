@@ -1,6 +1,4 @@
-# DeepRM
-HotNets'16 http://people.csail.mit.edu/hongzi/content/publications/DeepRM-HotNets16.pdf
-
+# MEta-RL
 Install prerequisites
 
 ```
