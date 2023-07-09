@@ -1,4 +1,4 @@
-# MEta-RL
+# Meta-RL
 Install prerequisites
 
 ```
